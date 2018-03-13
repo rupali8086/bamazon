@@ -1,4 +1,5 @@
-For Demo click on this file : bamazon/[B1EF4F55-1397-4478-A385-DDB21AFF7F6A.MP4](bamazon/B1EF4F55-1397-4478-A385-DDB21AFF7F6A.MP4)
+For Demo click here : https://www.youtube.com/watch?v=u8yh8JVZHfU&feature=youtu.be
+
 # Bamazon
 
 
@@ -18,8 +19,6 @@ What Each JavaScript Does
 
 ### bamazonCustomer.js
 
-<a href="https://imgflip.com/gif/26aesy"><img src="https://i.imgflip.com/26aesy.gif" title="made at imgflip.com"/></a>
-
 Prints the products in the store.
 
 Prompts customer which product they would like to purchase by ID number.
@@ -32,8 +31,6 @@ If the purchase goes through, it updates the stock quantity to reflect the purch
 It will also update the product sales in the department table.
 
 ### bamazonManager.js
-
-<a href="https://imgflip.com/gif/26aeoo"><img src="https://i.imgflip.com/26aeoo.gif" title="made at imgflip.com"/></a>
 
 Starts with a menu:
 
@@ -53,8 +50,6 @@ If the manager selects Add New Product, it allows the manager to add a new produ
 If the manager selects Exit, it ends the session .
 
 ### bamazonExecutive.js
-
-<a href="https://imgflip.com/gif/26aefq"><img src="https://i.imgflip.com/26aefq.gif" title="made at imgflip.com"/></a>
 
 Starts with a menu:
 

@@ -71,5 +71,6 @@ Built With
 Sublime Text - Text Editor
 MySQLWorkbench
 Terminal/Gitbash
-Author :
+
+**Author :
 Rupali Meshram

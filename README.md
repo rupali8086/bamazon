@@ -1,5 +1,5 @@
 For Demo click on this file : bamazon/B1EF4F55-1397-4478-A385-DDB21AFF7F6A.MP4
-# bamazon
+**# bamazon**
 
 
 BAMazon
@@ -15,7 +15,7 @@ node bamazonExecutive.js
 
 Run 'ctrl + c' to exit each mode
 What Each JavaScript Does
-**bamazonCustomer.js
+**bamazonCustomer.js**
 
 Prints the products in the store.
 
@@ -28,7 +28,7 @@ However, if there is not enough of the product in stock, it will tell the user t
 If the purchase goes through, it updates the stock quantity to reflect the purchase.
 It will also update the product sales in the department table.
 
-**bamazonManager.js
+**bamazonManager.js**
 
 Starts with a menu:
 
@@ -47,7 +47,7 @@ If the manager selects Add New Product, it allows the manager to add a new produ
 
 If the manager selects Exit, it ends the session .
 
-**bamazonExecutive.js
+**bamazonExecutive.js**
 
 Starts with a menu:
 
@@ -68,12 +68,12 @@ COLORS  NPM Package
 CLI-TABLE  NPM Package 
 
 Prerequisites
-- Node.js - Download the latest version of Node https://nodejs.org/en/
-- Create a MYSQL database called 'Bamazon', reference schema.sql
+- Node.js 
+- Create a MYSQL database called 'Bamazon'
 Built With
 Sublime Text - Text Editor
 MySQLWorkbench
 Terminal/Gitbash
 
-**Author :
+**Author :**
 Rupali Meshram

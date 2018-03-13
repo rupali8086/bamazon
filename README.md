@@ -1,4 +1,4 @@
-For Demo click on this file : bamazon/[B1EF4F55-1397-4478-A385-DDB21AFF7F6A.MP4](bamazon/B1EF4F55-1397-4478-A385-DDB21AFF7F6A.MP4)
+For Demo click on this file : bamazon/[B1EF4F55-1397-4478-A385-DDB21AFF7F6A.MP4](bamazon/blob/master/B1EF4F55-1397-4478-A385-DDB21AFF7F6A.MP4)
 # Bamazon
 
 
@@ -9,9 +9,9 @@ Getting Started
 Clone repo.
 Run command in Terminal or Gitbash 'npm install'
 Run commands:
-node bamazonCustomer.js
-node bamazonManager.js
-node bamazonExecutive.js
+* node bamazonCustomer.js
+* node bamazonManager.js
+* node bamazonExecutive.js
 
 Run 'ctrl + c' to exit each mode
 What Each JavaScript Does
@@ -62,16 +62,21 @@ If the manager selects Create New Department, it allows the manager to create a 
 If the manager selects End Session, it ends the session .
 
 Technologies used
+
 Node.js
-Inquire NPM Package 
-MYSQL NPM Package 
-COLORS  NPM Package 
-CLI-TABLE  NPM Package 
+
+* Inquire NPM Package 
+* MYSQL NPM Package 
+* COLORS  NPM Package 
+* CLI-TABLE  NPM Package 
 
 Prerequisites
+
 - Node.js 
 - Create a MYSQL database called 'Bamazon'
+
 Built With
+
 Sublime Text - Text Editor
 MySQLWorkbench
 Terminal/Gitbash

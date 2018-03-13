@@ -1,4 +1,7 @@
+bamazon/B1EF4F55-1397-4478-A385-DDB21AFF7F6A.MP4
 # bamazon
+
+
 BAMazon
 The goal was to create an Amazon-like store front using Node.js and MySQL.
 
